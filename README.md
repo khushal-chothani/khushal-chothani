@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushal-chothani&label=Profile%20views&color=0e75b6&style=flat" alt="khushal-chothani" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushal-chothani" alt="khushal-chothani" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/khushal628" target="blank"><img src="https://img.shields.io/twitter/follow/khushal628?logo=twitter&style=for-the-badge" alt="khushal628" /></a> </p>
-
 - 💬 Ask me about **Flutter, Xamarin, .NET MAUI, Flutter Flow**
 
 - 📫 How to reach me **khushal.chothani@icloud.com**
