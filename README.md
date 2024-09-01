@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushal-chothani&label=Profile%20views&color=0e75b6&style=flat" alt="khushal-chothani" /> </p>
 
-- 💬 Ask me about **Flutter, Xamarin, .NET MAUI, Flutter Flow**
+- 💬 Ask me about **Flutter, Flutter Flow , Xamarin, .NET MAUI **
 
 - 📫 How to reach me **khushal.chothani@icloud.com**
 
